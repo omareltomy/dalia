@@ -1,0 +1,5 @@
+# Requirements for skill-analyser.py
+json
+re
+collections
+pandas
