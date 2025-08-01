@@ -12,10 +12,11 @@ A toolset to scrape LinkedIn job descriptions and analyze technical skills.
 - [Bright Data – LinkedIn Scraper](https://brightdata.com/products/web-scraper/linkedin)  
 - [Octoparse](https://www.octoparse.com/)
 
-### Data Sources
-- **1.3M LinkedIn Jobs & Skills (2024)** dataset on Kaggle  
-- **List of Skills** (U.S. O*NET skill dictionary)  
-- Zipped folder containing ~580 job records
+## 📂 Data Sources
+
+- [1.3M LinkedIn Jobs & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/1‑3m‑linkedin‑jobs‑and‑skills‑2024/data) – Kaggle dataset containing 1.3 million LinkedIn job postings with associated skills.  
+- [O*NET 29.3 Data Dictionary (Skills & Abilities)](https://www.onetcenter.org/dictionary/29.3/text/) – Official U.S. Department of Labor classification of technical and soft skills by occupation.
+
 
 ---
 
